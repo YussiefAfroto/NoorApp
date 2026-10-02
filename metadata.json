@@ -1,0 +1,6 @@
+{
+  "name": "Noor",
+  "description": "Serene Celestial Islamic sanctuary with prayer times, interactive dhikr counter, sacred Quran & duas, and tranquil celestial design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
